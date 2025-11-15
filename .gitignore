@@ -1,0 +1,22 @@
+# OAuth credentials
+credentials.json
+token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+venv/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
